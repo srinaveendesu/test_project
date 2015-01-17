@@ -3,4 +3,3 @@ Django==1.7.1
 MySQL-python==1.2.5
 waitress==0.8.9
 whitenoise==1.0.6
-psycopg2==2.5.3
